@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Lanzamiento del Proyecto",
+        "contenido": "Hoy hemos inaugurado la nueva web con diseño horizontal."
+    },
+    {
+        "titulo": "Nuevos Servicios",
+        "contenido": "Ya puedes solicitar presupuesto online para tiendas y SEO."
+    },
+    {
+        "titulo": "Actualización",
+        "contenido": "Se han corregido los errores de rutas y carga de estilos."
+    }
+]
