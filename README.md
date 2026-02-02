@@ -1,8 +1,8 @@
 # C.G. Programación Web - Proyecto Final
 
 **Enlaces del proyecto:**
-* 📁 **Repositorio:** [https://github.com/Claudia-Gonzalez-Aparicio/Claudia_González_trabajoJAVASCRIPT](https://github.com/Claudia-Gonzalez-Aparicio/Claudia_González_trabajoJAVASCRIPT)
-* 🌐 **Web en vivo:** [https://Claudia-Gonzalez-Aparicio.github.io/Claudia_González_trabajoJAVASCRIPT/](https://Claudia-Gonzalez-Aparicio.github.io/Claudia_González_trabajoJAVASCRIPT/)
+* 📁 **Repositorio:** [https://github.com/Claudiaga00/Claudia_Gonza-lez_trabajoJAVASCRIPT](https://github.com/Claudiaga00/Claudia_Gonza-lez_trabajoJAVASCRIPT)
+* 🌐 **Web en vivo:** [https://claudiaga00.github.io/Claudia_Gonza-lez_trabajoJAVASCRIPT/](https://claudiaga00.github.io/Claudia_Gonza-lez_trabajoJAVASCRIPT/)
 
 ---
 
